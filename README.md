@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @danni1200
-- 👀 I’m interested in making things work and figuring stuff out.
-- 🌱 I’m currently learning Python, PHP, JavaScript, APIs.
-- 💞️ I’m looking to collaborate on everything.
-- 📫 How to reach me danielly@gmail.com
+- 👀 Specializing in making things work and fixing problems.
+- 🌱 Implementation and migration of data heavy applications.
+- 💞️ AI is here and shaping the future today.
 
 <!---
 danni1200/danni1200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
